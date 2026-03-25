@@ -20,4 +20,4 @@ This project contains hands-on practice with Pandas DataFrame operations using P
 ## ▶️ How to Run
 1. Clone the repository:
 ```bash
-git clone https:https://github.com/imran-withdata/pandas-dataframe-practice
+git clone https: https://github.com/imran-withdata/pandas-dataframe-practice
